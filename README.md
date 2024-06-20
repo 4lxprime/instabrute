@@ -1,4 +1,5 @@
 # instabrute
+## /!\ Deprecated (may not work, can be used as a poc)
 One of the best instagram bruteforce attack program
 # How to run instabrute : 
 for run instabrute you need the linux os
